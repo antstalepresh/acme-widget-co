@@ -15,3 +15,7 @@ This site can be hosted by using MAMP.
 
 You can select product and then click add product to get cost immediately.
 For convenience you can cancel an order by using delete button.
+
+## total cost calculation
+
+renderTotalCost at `index.js` is used for calculating total cost of orders.
